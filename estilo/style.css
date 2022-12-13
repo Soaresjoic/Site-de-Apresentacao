@@ -21,7 +21,7 @@ main {
 main h1{
     font-family: 'Jost', sans-serif;
     color: black;
-    font-size: 5em;
+    font-size: 3em;
     margin: 0px;
     padding: 5px;
     height: 110px;
@@ -29,7 +29,7 @@ main h1{
 }
 
 main h2{
-    font: normal 45px 'Jost';
+    font: normal 2.5em 'Jost';
     color: black;
     margin: 10px;
     padding: 10px;
@@ -46,7 +46,7 @@ main img{
     
 }
 main h3{
-    font: normal 30px 'Jost';
+    font: normal 2em 'Jost';
     text-align: center;
     color: black;
     margin: 10px;
@@ -54,7 +54,7 @@ main h3{
 }
 
 main p{
-    font: normal 25px 'Jost';
+    font: normal 16px 'Jost';
     text-align: justify;
     color: black;
     margin: 10px;
@@ -69,7 +69,7 @@ footer{
     text-align: center;
 }
 footer p{
-    font: normal 25px 'Jost';
+    font: normal 16px 'Jost';
     margin: 5px;
     color: black;
 }
