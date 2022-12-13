@@ -5,7 +5,7 @@
 
 
 body{
-    background: linear-gradient(#C4BDF2, #7D6BF2,#4B1DF2,#4218D9);
+    background: linear-gradient(#C4BDF2, #7D6BF2,#4B1DF2,#4218D9, #310db3);
 }
 
 main {
@@ -21,9 +21,9 @@ main {
 main h1{
     font-family: 'Jost', sans-serif;
     color: black;
-    font-size: 3em;
+    font-size: 5em;
     margin: 0px;
-    padding: 5px;
+    padding: 10px;
     height: 110px;
     text-align: center;
 }
@@ -54,7 +54,7 @@ main h3{
 }
 
 main p{
-    font: normal 16px 'Jost';
+    font: normal 20px 'Jost';
     text-align: justify;
     color: black;
     margin: 10px;
@@ -69,7 +69,7 @@ footer{
     text-align: center;
 }
 footer p{
-    font: normal 16px 'Jost';
+    font: normal 20px 'Jost';
     margin: 5px;
     color: black;
 }
